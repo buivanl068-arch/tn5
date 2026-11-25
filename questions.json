@@ -1,375 +1,1211 @@
 [
   {
-    "id": 48,
-    "question": "Nền quốc phòng toàn dân là sức mạnh quốc phòng của đất nước được xây dựng trên nền tảng?",
+    "id": 1,
+    "question": "Chiến lược “diễn biến hoà bình” được bắt nguồn từ nước nào?",
     "options": {
-      "a": "Nhân lực, vật lực, tinh thần mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự cường.",
-      "b": "Nhân lực, tinh thần mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự lực, tự cường.",
-      "c": "Nhân lực, vật lực, mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự cường.",
-      "d": "Nhân lực, vật lực, tinh thần mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự lực, tự cường."
+      "a": "Nước Mỹ.",
+      "b": "Nước Đức.",
+      "c": "Nước Pháp.",
+      "d": "Nước Nga."
     },
     "answer": "a"
   },
   {
-    "id": 49,
-    "question": "Theo quan điểm của Đảng và nhà nước, “an ninh nhân dân” là sự nghiệp của ai?",
+    "id": 2,
+    "question": "Biện pháp được chủ nghĩa đế quốc và các thế lực thù địch sử dụng trong chiến lược “diễn biến hoà bình” là:",
     "options": {
-      "a": "Của toàn dân, do nhân dân tiến hành, lực lượng an ninh nhân dân làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước.",
-      "b": "Của toàn quân, do công an tiến hành, lực lượng vũ trang làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước.",
-      "c": "Của toàn dân, do quân đội tiến hành, lực lượng vũ trang làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước.",
-      "d": "Của toàn quân, do công an tiến hành, lực lượng an ninh nhân dân làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước."
+      "a": "Biện pháp quân sự.",
+      "b": "Biện pháp phi quân sự.",
+      "c": "Biện pháp vũ trang.",
+      "d": "Biện pháp ngoại giao."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Bạo loạn lật đổ gồm những hình thức nào?",
+    "options": {
+      "a": "Bạo loạn vũ trang.",
+      "b": "Bạo loạn chính trị.",
+      "c": "Bạo loạn chính trị kết hợp bạo loạn vũ trang.",
+      "d": "Bạo loạn vũ trang kết hợp bạo loạn gây rối."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "“Diễn biến hoà bình” là chiến lược cơ bản nhằm lật đổ chế độ chính trị của các nước tiến bộ, trước hết là các nước ……… từ bên trong.",
+    "options": {
+      "a": "“chủ nghĩa đế quốc”.",
+      "b": "“xã hội chủ nghĩa”.",
+      "c": "“phát triển”.",
+      "d": "“đang phát triển”."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Trong các thủ đoạn sau, thủ đoạn nào không phải của chiến lược “diễn biến hòa bình”?",
+    "options": {
+      "a": "Xâm nhập về văn hóa.",
+      "b": "Phát động chiến tranh hạt nhân.",
+      "c": "Chống phá về chính trị tư tưởng.",
+      "d": "Vô hiệu hóa lực lượng vũ trang."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Một trong những quan điểm trong đấu tranh phòng chống chiến lược \"diễn biến hòa bình\":",
+    "options": {
+      "a": "Là một cuộc đấu tranh dân tộc rất gay go, quyết liệt trên mọi lĩnh vực.",
+      "b": "Là một cuộc đấu tranh giai cấp gay go, quyết liệt, lâu dài và phức tạp trên mọi lĩnh vực.",
+      "c": "Là một cuộc đấu tranh giai cấp, đấu tranh dân tộc gay go, quyết liệt, lâu dài và phức tạp trên mọi lĩnh vực.",
+      "d": "Là một cuộc đấu tranh giải quyết vấn đề ai thắng ai giữa chủ nghĩa tư bản và chủ nghĩa xã hội."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "Nguyên tắc xử trí khi có tình huống bạo loạn xảy ra là:",
+    "options": {
+      "a": "Nhanh gọn, kiên quyết, linh hoạt, đúng đối tượng, không để lan rộng, kéo dài.",
+      "b": "Nhanh gọn, kiên quyết, triệt để đúng đối tượng, không để lan rộng, kéo dài.",
+      "c": "Nhanh gọn, linh hoạt, khôn khéo đúng đối tượng, không để lan rộng, kéo dài.",
+      "d": "Nhanh gọn, kiên quyết, linh hoạt, đúng đối tượng, sử dụng lực lượng và phương thức đấu tranh phù hợp, không để lan rộng kéo dài."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Đẩy lùi tệ quan liêu, tham nhũng, tiêu cực trong xã hội, giữ vững định hướng xã hội chủ nghĩa trên các lĩnh vực, chống nguy cơ tụt hậu về kinh tế. Được xác định là:",
+    "options": {
+      "a": "Giải pháp phòng chống chiến lược “diễn biến hoà bình”.",
+      "b": "Nhiệm vụ phòng chống chiến lược “diễn biến hoà bình”.",
+      "c": "Phương châm phòng chống chiến lược “diễn biến hoà bình”.",
+      "d": "Quan điểm phòng chống chiến lược “diễn biến hoà bình”."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "Chiến lược “diễn biến hoà bình” hình thành và phát triển qua mấy giai đoạn?",
+    "options": {
+      "a": "Một giai đoạn.",
+      "b": "Hai giai đoạn.",
+      "c": "Ba giai đoạn.",
+      "d": "Bốn giai đoạn."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Mục tiêu nhất quán của chủ nghĩa đế quốc và các thế lực thù địch trong sử dụng chiến lược “diễn biến hoà bình” đối với Việt Nam là:",
+    "options": {
+      "a": "Thực hiện âm mưu xoá bỏ vai trò lãnh đạo của Đảng, xoá bỏ chế độ xã hội chủ nghĩa, lái nước ta đi theo con đường chủ nghĩa tư bản và lệ thuộc vào chủ nghĩa đế quốc.",
+      "b": "Thực hiện âm mưu xoá bỏ vai trò lãnh đạo của Đảng, xoá bỏ chế độ chủ nghĩa đế quốc, lái nước ta đi theo con đường xã hội chủ nghĩa và lệ thuộc vào chủ nghĩa đế quốc.",
+      "c": "Thực hiện âm mưu xoá bỏ vai trò lãnh đạo của Đảng, xoá bỏ chế độ xã hội chủ nghĩa, lái nước ta đi theo con đường chủ nghĩa tư bản và lệ thuộc vào thế lực phản động.",
+      "d": "Thực hiện âm mưu xoá bỏ vai trò lãnh đạo của Đảng, xoá bỏ chế độ xã hội chủ nghĩa, lái nước ta đi theo con đường chủ nghĩa tư bản và lệ thuộc vào chủ nghĩa xã hội."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 11,
+    "question": "Mục đích của thủ đoạn chống phá trên lĩnh vực đối ngoại trong chiến lược “diễn biến hoà bình” là:",
+    "options": {
+      "a": "Lợi dụng chính sách để đầu tư vốn, tạo sức ép về chính trị.",
+      "b": "Chia rẽ tình đoàn kết hữu nghị giữa Việt Nam với Lào, Campuchia và các nước xã hội chủ nghĩa, hạ thấp uy tín của nước ta trên trường quốc tế.",
+      "c": "Kích động đòi phủ nhận vai trò lãnh đạo của Đảng trong lĩnh vực quốc phòng, an ninh và đối với lực lượng vũ trang.",
+      "d": "Thực hiện xâm nhập, tăng cường hoạt động tình báo thu thập bí mật quốc gia."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Thủ đoạn chống phá trên lĩnh vực tôn giáo, dân tộc của chủ nghĩa đế quốc là:",
+    "options": {
+      "a": "Phá vỡ nền tảng tư tưởng của Đảng Cộng sản Việt Nam, ra sức truyền bá tư tưởng tư sản vào các tầng lớp nhân dân.",
+      "b": "Lợi dụng chính sách tự do tôn giáo, tuyên truyền tà đạo trái phép, gây mất ổn định và phá vỡ khối đại đoàn kết dân tộc.",
+      "c": "Chia rẽ tình đoàn kết hữu nghị giữa Việt Nam với Lào, Campuchia và các nước xã hội chủ nghĩa",
+      "d": "Chuyển hóa nền kinh tế thị trường định hướng XHCN ở Việt Nam dần dần theo quỹ đạo kinh tế thị trường TBCN."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Lợi dụng xu thế mở rộng hợp tác quốc tế để du nhập văn hóa phẩm đồi trụy, lối sống thực dụng được xác định là thủ đoạn chống phá trên lĩnh vực nào?",
+    "options": {
+      "a": "Chính trị.",
+      "b": "Tôn giáo, dân tộc.",
+      "c": "Tư tưởng, văn hóa.",
+      "d": "Quốc phòng, an ninh."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 14,
+    "question": "“Mỹ sẽ giành thắng lợi bằng hòa bình” là lời tuyên bố của Tổng thống nào theo bài giảng?",
+    "options": {
+      "a": "John F. Kennedy.",
+      "b": "Dwight D. Eisenhower.",
+      "c": "Harry S. Truman.",
+      "d": "Gerald Ford."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Bạo loạn lật đổ là hành động chống phá có tổ chức do:",
+    "options": {
+      "a": "Lực lượng phản động hay lực lượng ly khai, đối lập trong nước hoặc cấu kết với nước ngoài tiến hành.",
+      "b": "Lực lượng phản động đối lập trong nước hoặc cấu kết với tội phạm tiến hành.",
+      "c": "Lực lượng quân sự tiến hành lật đổ chính quyền ở địa phương hay trung ương.",
+      "d": "Lực lượng gián điệp tiến hành lật đổ chính quyền ở địa phương hay trung ương."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 16,
+    "question": "Giải pháp phòng chống chiến lược “diễn biến hoà bình” là:",
+    "options": {
+      "a": "Xây dựng cơ sở chính trị - xã hội vững mạnh về mọi mặt.",
+      "b": "Bảo vệ sự nghiệp đổi mới và lợi ích quốc gia dân tộc.",
+      "c": "Chủ động khôn khéo xử lý tình huống khi có bạo loạn xảy ra.",
+      "d": "Tranh thủ sự ủng hộ của nhân dân trong nước và bạn bè quốc tế."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 17,
+    "question": "Nội dung nào có ý nghĩa trực tiếp củng cố “thế trận lòng dân” trong phòng, chống chiến lược “diễn biến hòa bình”?",
+    "options": {
+      "a": "Chăm lo đời sống nhân dân, thực hiện dân chủ, công bằng xã hội và giải quyết kịp thời những vấn đề phát sinh từ cơ sở.",
+      "b": "Tập trung sử dụng lực lượng chuyên trách tại những địa bàn trọng điểm.",
+      "c": "Thu hẹp hoạt động giao lưu, hợp tác quốc tế để hạn chế tác động từ bên ngoài.",
+      "d": "Chỉ tăng cường biện pháp quản lý hành chính đối với các hoạt động xã hội."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 18,
+    "question": "Thủ đoạn về kinh tế trong chiến lược “diễn biến hoà bình” của địch được coi là:",
+    "options": {
+      "a": "Mũi nhọn.",
+      "b": "Hàng đầu.",
+      "c": "Ngòi nổ.",
+      "d": "Hậu thuẫn."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 19,
+    "question": "Thủ đoạn về chính trị trong chiến lược “diễn biến hoà bình” của địch được coi là:",
+    "options": {
+      "a": "Mũi nhọn.",
+      "b": "Hàng đầu.",
+      "c": "Ngòi nổ.",
+      "d": "Hậu thuẫn."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Thủ đoạn trong lĩnh vực tôn giáo, dân tộc của chiến lược “diễn biến hoà bình” được coi là:",
+    "options": {
+      "a": "Mũi nhọn.",
+      "b": "Hàng đầu.",
+      "c": "Ngòi nổ.",
+      "d": "Hậu thuẫn."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 21,
+    "question": "Phòng chống chiến lược “diễn biến hoà bình”, bạo loạn lật đổ hiện nay được xác định là:",
+    "options": {
+      "a": "Nhiệm vụ cấp bách hàng đầu, thường xuyên và lâu dài.",
+      "b": "Nhiệm vụ cơ bản trước mắt.",
+      "c": "Nhiệm vụ quan trọng nhất.",
+      "d": "Nhiệm vụ trọng tâm của cách mạng nước ta."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 22,
+    "question": "Để góp phần làm thất bại chiến lược “diễn biến hoà bình”, bạo loạn lật đổ cần nắm vững một trong các mục tiêu:",
+    "options": {
+      "a": "Bảo vệ sự nghiệp đổi mới và lợi ích quốc gia, dân tộc.",
+      "b": "Bảo vệ an ninh, chính trị của đất nước.",
+      "c": "Bảo vệ tài sản và vận mệnh của đất nước.",
+      "d": "Bảo vệ tài sản và tính mạng của nhân dân."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 23,
+    "question": "Trong quá trình gây bạo loạn, bọn phản động tìm mọi cách để?",
+    "options": {
+      "a": "Mở rộng quy mô, lực lượng.",
+      "b": "Mở rộng phạm vi, quy mô, lực lượng và kêu gọi sự tài trợ tiền của, vũ khí ngoài nước.",
+      "c": "Mở rộng phạm vi, quy mô, lực lượng đập phá trụ sở, uy hiếp chính quyền địa phương.",
+      "d": "Mở rộng phạm vi, quy mô, lực lượng đập phá trụ sở, lật đổ chính quyền địa phương."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Một trong những quan điểm đấu tranh chống chiến lược “diễn biến hoà bình” là:",
+    "options": {
+      "a": "Chống “diễn biến hoà bình” là lâu dài trong các nhiệm vụ quốc phòng, an ninh hiện nay để bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa.",
+      "b": "Chống “diễn biến hoà bình” là quan trọng trong các nhiệm vụ quốc phòng, an ninh hiện nay để bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa.",
+      "c": "Chống “diễn biến hoà bình” là thường xuyên trong các nhiệm vụ quốc phòng, an ninh hiện nay để bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa.",
+      "d": "Chống “diễn biến hoà bình” là cấp bách hàng đầu trong các nhiệm vụ quốc phòng, an ninh hiện nay để bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 25,
+    "question": "Thực hiện thủ đoạn chiến lược “diễn biến hoà bình” về tư tưởng, văn hoá, kẻ thù tập trung tấn công?",
+    "options": {
+      "a": "Làm phai nhạt giá trị của văn hoá Việt Nam.",
+      "b": "Làm phai mờ bản sắc văn hoá và giá trị văn hoá của dân tộc Việt Nam.",
+      "c": "Vào những sản phẩm văn hoá quý báu của dân tộc Việt Nam.",
+      "d": "Vào nền văn hoá mang bản sắc dân tộc Việt Nam."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Kẻ thù thực hiện thủ đoạn “diễn biến hoà bình” phá hoại kinh tế của nước ta nhằm:",
+    "options": {
+      "a": "Đặt ra các điều kiện buộc ta phải theo quỹ đạo của chúng.",
+      "b": "Đặt ra các điều kiện tạo cớ tiến công quân sự.",
+      "c": "Đặt ra các điều kiện gây sức ép về chính trị.",
+      "d": "Đặt ra các điều kiện lật đổ hệ thống chính trị."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 27,
+    "question": "“Diễn biến hoà bình” và bạo loạn lật đổ có mối quan hệ như thế nào?",
+    "options": {
+      "a": "Diễn biến hoà bình là quá trình tạo nên những điều kiện, thời cơ cho bạo loạn lật đổ.",
+      "b": "Diễn biến hoà bình là nguyên nhân cho bạo loạn lật đổ.",
+      "c": "Diễn biến hoà bình là thời cơ cho bạo loạn lật đổ.",
+      "d": "Diễn biến hoà bình là thách thức cho bạo loạn lật đổ."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 28,
+    "question": "Mục đích chống phá tư tưởng - văn hoá trong chiến lược “Diễn biến hoà bình” là:",
+    "options": {
+      "a": "Xoá bỏ nền tảng, tư tưởng xã hội chủ nghĩa.",
+      "b": "Xoá bỏ sự quản lý điều hành của Nhà nước.",
+      "c": "Xoá bỏ chế độ chủ nghĩa tư bản.",
+      "d": "Xoá bỏ chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 29,
+    "question": "Chủ nghĩa đế quốc và các thế lực thù địch xác định lĩnh vực chống phá hàng đầu trong chiến lược “diễn biến hoà bình” là:",
+    "options": {
+      "a": "Kinh tế, chính trị.",
+      "b": "Văn hoá, tư tưởng.",
+      "c": "Chính trị, tư tưởng.",
+      "d": "Dân tộc, tôn giáo."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 30,
+    "question": "“Diễn biến hoà bình” là chiến lược nhằm mục đích:",
+    "options": {
+      "a": "Thực hiện mưu đồ bá chủ thế giới.",
+      "b": "Lật đổ chế độ chính trị của các nước tiến bộ.",
+      "c": "Răn đe quân sự đối với các nước tiến bộ.",
+      "d": "Lật đổ chế độ các nước chủ nghĩa đế quốc."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "Theo khái niệm về Dân tộc, thì dân tộc là:",
+    "options": {
+      "a": "Cộng đồng người ổn định, hình thành trong lịch sử, tạo lập một quốc gia…",
+      "b": "Nhóm người có cùng chung lợi ích.",
+      "c": "Tập đoàn người trong xã hội.",
+      "d": "Tập đoàn người có vũ trang."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 32,
+    "question": "Dân tộc được hiểu theo nghĩa hẹp là:",
+    "options": {
+      "a": "Các thành viên của một nhóm người có chung sở thích.",
+      "b": "Các thành viên cùng dân tộc sử dụng một ngôn ngữ chung (tiếng mẹ đẻ) để giao tiếp nội bộ dân tộc.",
+      "c": "Là nhóm người đặt dưới sự chỉ đạo của một tổ chức.",
+      "d": "Là các thành viên có chung lợi ích nhóm."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "Dân tộc được hiểu theo nghĩa rộng là:",
+    "options": {
+      "a": "Các thành viên trong xã hội có cùng chung đặc điểm tâm lý, văn hóa – xã hội.",
+      "b": "Là một cộng đồng người cùng chung lợi ích, cùng thực hiện một nhiệm vụ.",
+      "c": "Là một cộng đồng chính trị - xã hội, được chỉ đạo bởi một nhà nước, thiết lập trên một lãnh thổ chung.",
+      "d": "Là cộng đồng người thuộc giai cấp thống trị."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 34,
+    "question": "“Cộng đồng người ổn định, hình thành trong lịch sử, tạo lập một quốc gia, trên cơ sở cộng đồng bền vững về: lãnh thổ quốc gia, kinh tế, ngôn ngữ, truyền thống, văn hóa, đặc điểm tâm lý, ý thức về dân tộc và tên gọi của dân tộc”. Là khái niệm:",
+    "options": {
+      "a": "Tín ngưỡng.",
+      "b": "Mê tín dị đoan.",
+      "c": "Tôn giáo.",
+      "d": "Dân tộc."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 35,
+    "question": "Việt Nam có bao nhiêu tôn giáo và bao nhiêu tổ chức tôn giáo được Nhà nước công nhận hiện nay?",
+    "options": {
+      "a": "14 tôn giáo và 41 tổ chức.",
+      "b": "15 tôn giáo và 42 tổ chức.",
+      "c": "16 tôn giáo và 43 tổ chức.",
+      "d": "17 tôn giáo và 44 tổ chức."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 36,
+    "question": "Hiện nay quan hệ dân tộc, sắc tộc trên thế giới vẫn diễn ra rất phức tạp, nóng bỏng ở:",
+    "options": {
+      "a": "Châu Phi và Mỹ Latinh.",
+      "b": "Châu Á và Châu Âu.",
+      "c": "Phạm vi quốc gia, khu vực và quốc tế.",
+      "d": "Các nước xã hội chủ nghĩa."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 37,
+    "question": "Một trong những đặc trưng của các dân tộc ở Việt Nam là:",
+    "options": {
+      "a": "Các dân tộc thiểu số ở Việt Nam cư trú du canh, du cư.",
+      "b": "Các dân tộc thiểu số ở Việt Nam cư trú tập trung.",
+      "c": "Các dân tộc thiểu số ở Việt Nam cư trú ở rừng núi.",
+      "d": "Các dân tộc thiểu số ở Việt Nam cư trú phân tán và xen kẽ."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 38,
+    "question": "Tôn giáo là một hình thái ý thức xã hội, phản ánh hiện thực khách quan, theo:",
+    "options": {
+      "a": "Quan niệm hoang đường, ảo tưởng, phù hợp với tâm lý, hành vi của con người.",
+      "b": "Trào lưu của xã hội, phù hợp với tư tưởng, tình cảm, niềm tin của con người.",
+      "c": "Quy luật phát triển của đời sống xã hội, được mọi người tin theo.",
+      "d": "Chuẩn mực đạo đức, văn hóa, truyền thống của con người."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 39,
+    "question": "Tôn giáo có nguồn gốc từ các yếu tố:",
+    "options": {
+      "a": "Kinh tế - xã hội, ý thức và hành vi của con người.",
+      "b": "Chính trị - xã hội, tinh thần và tâm lý.",
+      "c": "Chính trị - xã hội, kinh tế và tinh thần.",
+      "d": "Kinh tế - xã hội, nhận thức và tâm lý."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 40,
+    "question": "Tính chất của tôn giáo, gồm:",
+    "options": {
+      "a": "Tính kế thừa, tính phát triển và tính hoàn thiện.",
+      "b": "Tính phát triển, tính chọn lọc và tính bổ sung.",
+      "c": "Tính lịch sử, tính quần chúng, tính chính trị.",
+      "d": "Tính kế thừa, tính xây dựng, tính phục vụ."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 41,
+    "question": "Một trong những quan điểm chủ nghĩa Mác – Lênin về giải quyết vấn đề tôn giáo trong cách mạng xã hội chủ nghĩa là:",
+    "options": {
+      "a": "Quán triệt quan điểm tôn trọng pháp luật.",
+      "b": "Quán triệt quan điểm tôn trọng quần chúng nhân dân.",
+      "c": "Quán triệt quan điểm tôn trọng giáo lý tôn giáo .",
+      "d": "Quán triệt quan điểm lịch sử cụ thể ."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 42,
+    "question": "Nội dung cốt lõi của công tác tôn giáo ở Việt Nam là:",
+    "options": {
+      "a": "Vận động quần chúng “hướng về thần linh, sống theo bổn phận”.",
+      "b": "Vận động quần chúng sống “tốt đời, đẹp đạo”.",
+      "c": "Vận động quần chúng sống “dĩ hòa, vi quý”.",
+      "d": "Vận động quần chúng sống “từ bi, bác ái”"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Theo báo cáo của Trung tâm Nghiên cứu Pew (PRC) công bố ngày 09/6/2025, người theo Kitô giáo chiếm bao nhiêu phần trăm dân số thế giới vào năm 2020?",
+    "options": {
+      "a": "28,8%.",
+      "b": "25,6%.",
+      "c": "24,2%.",
+      "d": "14,9%."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 44,
+    "question": "Theo thông tin của Cục Dân số (Bộ Y tế), được Báo Điện tử Chính phủ đăng ngày 22/01/2026, năm 2025 Việt Nam có quy mô dân số khoảng 102,3 triệu người. Với quy mô này, dân số Việt Nam đứng thứ mấy ở Đông Nam Á và trên thế giới?",
+    "options": {
+      "a": "Thứ 3 ở Đông Nam Á và thứ 16 trên thế giới.",
+      "b": "Thứ 3 ở Đông Nam Á và thứ 15 trên thế giới.",
+      "c": "Thứ 4 ở Đông Nam Á và thứ 16 trên thế giới.",
+      "d": "Thứ 4 ở Đông Nam Á và thứ 15 trên thế giới."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 45,
+    "question": "Theo thông tin trên Cổng thông tin điện tử Bộ Dân tộc và Tôn giáo công bố tính đến năm 2026, Việt Nam có bao nhiêu dân tộc cùng sinh sống?",
+    "options": {
+      "a": "53 dân tộc.",
+      "b": "54 dân tộc.",
+      "c": "55 dân tộc.",
+      "d": "56 dân tộc."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Một trong những giải pháp cơ bản đấu tranh phòng, chống lợi dụng vấn đề dân tộc, tôn giáo là:",
+    "options": {
+      "a": "Tạo mọi điều kiện cho đồng bào các dân tộc, các tôn giáo thực hiện tốt nghĩa vụ của mình.",
+      "b": "Chăm lo, nâng cao đời sống vật chất, tinh thần của đồng bào các dân tộc, các tôn giáo.",
+      "c": "Chú trọng công tác giáo dục, thuyết phục đối các già làng, trưởng bản, chức sắc tôn giáo.",
+      "d": "Kịp thời phát hiện, ngăn chặn, đối phó có hiệu quả đối với những lực lượng phản động."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Chức năng cơ bản của tôn giáo gồm:",
+    "options": {
+      "a": "Chức năng thế giới quan, chức năng điều chỉnh, chức năng tư duy logic.",
+      "b": "Chức năng thế giới quan, chức năng điều chỉnh, chức năng liên kết.",
+      "c": "Chức năng thế giới quan, chức năng liên kết, chức năng hiện thực.",
+      "d": "Chức năng thế giới quan, chức năng liên kết, chức năng ảo tưởng."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Theo báo cáo của Trung tâm Nghiên cứu Pew (PRC) công bố ngày 09/6/2025, tôn giáo nào có số người tăng lên nhiều nhất trên thế giới trong giai đoạn 2010–2020?",
+    "options": {
+      "a": "Phật giáo.",
+      "b": "Kitô giáo.",
+      "c": "Hồi giáo.",
+      "d": "Ấn Độ giáo."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "Theo báo cáo của Trung tâm Nghiên cứu Pew (PRC) công bố ngày 09/6/2025, người tự nhận mình theo Phật giáo chiếm khoảng bao nhiêu phần trăm dân số thế giới vào năm 2020?",
+    "options": {
+      "a": "4,1%.",
+      "b": "5,1%.",
+      "c": "6,1%.",
+      "d": "7,1%."
     },
     "answer": "a"
   },
   {
     "id": 50,
-    "question": "Xây dựng nền quốc phòng, an ninh nhân dân vững mạnh là tạo ra sức mạnh để?",
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin về giải quyết vấn đề tôn giáo trong cách mạng xã hội chủ nghĩa, cần phân biệt rõ hai mặt:",
     "options": {
-      "a": "Ngăn ngừa, đẩy lùi, đánh bại mọi âm mưu xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Ngăn ngừa, đánh bại mọi âm mưu, hành động xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "c": "Ngăn ngừa, đẩy lùi, đánh bại mọi âm mưu, hành động xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "d": "Đánh bại mọi âm mưu, hành động xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+      "a": "Chính trị và xã hội của tôn giáo.",
+      "b": "Chính trị và tổ chức của tôn giáo.",
+      "c": "Chính trị và tư tưởng của tôn giáo.",
+      "d": "Chính trị và văn hóa của tôn giáo."
     },
     "answer": "c"
   },
   {
     "id": 51,
-    "question": "Trong vị trí của nền quốc phòng toàn dân, Đảng ta khẳng định:",
+    "question": "Âm mưu lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam của các thế lực thù địch",
     "options": {
-      "a": "Trong khi đặt trọng tâm vào nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng tư tưởng - chính trị - xã hội, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ.",
-      "b": "Trong khi đặt trọng tâm vào nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng văn hóa - xã hội, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ.",
-      "c": "Trong khi đặt trọng tâm vào nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng ngoại giao, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ.",
-      "d": "Trong khi đặt trọng tâm vào nhiệm vụ xây dựng chủ nghĩa xã hội, chúng ta không một chút lơi lỏng nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng quốc phòng, an ninh, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 52,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta:",
-    "options": {
-      "a": "Nền quốc phòng, an ninh có sức mạnh của quân đội tạo thành.",
-      "b": "Nền quốc phòng, an ninh có sức mạnh tổng hợp do nhiều yếu tố tạo thành.",
-      "c": "Nền quốc phòng, an ninh có sức mạnh của dân tạo thành.",
-      "d": "Nền quốc phòng, an ninh có sức mạnh của công an tạo thành."
+      "a": "Lấy chống phá về dân tộc, tôn giáo làm hàng đầu.",
+      "b": "Lấy chống phá về dân tộc, tôn giáo làm mũi nhọn.",
+      "c": "Lấy chống phá về dân tộc, tôn giáo làm ngòi nổ.",
+      "d": "Lấy chống phá về dân tộc, tôn giáo làm hậu thuẫn."
     },
     "answer": "b"
   },
   {
-    "id": 53,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta:",
+    "id": 52,
+    "question": "Theo tư tưởng Hồ Chí Minh, xây dựng khối đại đoàn kết toàn dân phải dựa trên nền tảng khối liên minh:",
     "options": {
-      "a": "Nền quốc phòng, an ninh vì dân, của dân và do quân đội nhân dân tiến hành.",
-      "b": "Nền quốc phòng, an ninh vì dân, của dân và do công an nhân dân tiến hành.",
-      "c": "Nền quốc phòng, an ninh vì dân, của dân và do toàn thể nhân dân tiến hành.",
-      "d": "Nền quốc phòng, an ninh vì dân, của dân và do dân quân tự vệ tiến hành."
+      "a": "Sĩ – Nông – Công – Thương dưới sự lãnh đạo của Đảng.",
+      "b": "Sĩ – Nông – Công – Trí thức dưới sự lãnh đạo của Đảng.",
+      "c": "Công – Nông – Trí thức dưới sự lãnh đạo của Đảng.",
+      "d": "Công – Nông – Thương dưới sự lãnh đạo của Đảng."
     },
     "answer": "c"
   },
   {
-    "id": 54,
-    "question": "Đặc trưng của nền quốc phòng toàn dân gắn chặt với nền an ninh nhân dân của chúng ta đều được xây dựng nhằm mục đích?",
+    "id": 53,
+    "question": "Theo tư tưởng Hồ Chí Minh, khi dân tộc Việt Nam đã có độc lập, tự do, việc xây dựng quan hệ giữa các dân tộc phải theo tinh thần:",
     "options": {
-      "a": "Đấu tranh, đều phải chống thù trong, giặc ngoài để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Đấu tranh, phải chống giặc ngoại xâm để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "c": "Tự vệ, phải chống giặc ngoại xâm để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "d": "Tự vệ, đều phải chống thù trong, giặc ngoài để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+      "a": "Chỉ tập trung phát triển kinh tế giữa các dân tộc.",
+      "b": "Xây dựng quan hệ riêng giữa từng dân tộc với Nhà nước.",
+      "c": "Ưu tiên dân tộc có trình độ phát triển cao hơn.",
+      "d": "Bình đẳng, đoàn kết, tôn trọng và giúp đỡ lẫn nhau cùng phát triển."
     },
     "answer": "d"
   },
   {
-    "id": 55,
-    "question": "Mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là:",
+    "id": 54,
+    "question": "Tính chính trị của tôn giáo xuất hiện khi:",
     "options": {
-      "a": "Tạo sức mạnh tổng hợp của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-      "b": "Tạo sức mạnh về quân sự của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-      "c": "Tạo sức mạnh phát triển kinh tế - xã hội của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-      "d": "Tạo sức mạnh phát triển kinh tế - xã hội, khoa học và công nghệ của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc."
+      "a": "Hình thành trong xã hội nguyên thủy.",
+      "b": "Xã hội đã phân chia giai cấp.",
+      "c": "Hình thành xã hội xã hội chủ nghĩa.",
+      "d": "Hình thành xã hội tư bản chủ nghĩa."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Văn kiện Đại hội đại biểu toàn quốc lần thứ X của Đảng Cộng sản Việt Nam tiếp tục khẳng định:",
+    "options": {
+      "a": "“Đồng bào tôn giáo là bộ phận quan trọng của khối đại đoàn kết dân tộc”.",
+      "b": "“Đồng bào tôn giáo là bộ phận quan trọng của quần chúng nhân dân có cùng đức tin”.",
+      "c": "“Đồng bào tôn giáo là bộ phận quan trọng của dân, do dân”.",
+      "d": "“Đồng bào tôn giáo là bộ phận quan trọng của nhà nước xã hội chủ nghĩa”."
     },
     "answer": "a"
   },
   {
     "id": 56,
-    "question": "Một trong những nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là:",
+    "question": "Chọn đáp án đúng để hoàn thành câu sau: “Đoàn kết thống nhất đã trở thành giá trị …(1)… truyền thống quý báu của dân tộc, là…(2)… để dân tộc ta tiếp tục xây dựng và phát triển đất nước”.",
     "options": {
-      "a": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ các mục tiêu.",
-      "b": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ các cụm kinh tế.",
-      "c": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ các vùng biên giới.",
-      "d": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 57,
-    "question": "Tiềm lực quốc phòng, an ninh là:",
-    "options": {
-      "a": "Khả năng về nhân lực, vật lực có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh.",
-      "b": "Khả năng về nhân lực, tài chính có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh.",
-      "c": "Khả năng về nhân lực, vật lực, tài chính có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh.",
-      "d": "Khả năng về nhân lực, phương tiện kỹ thuật có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 58,
-    "question": "Tiềm lực quốc phòng, an ninh được thể hiện trên tất cả các lĩnh vực của đời sống xã hội, nhưng tập trung ở những tiềm lực?",
-    "options": {
-      "a": "Tiềm lực chính trị, tinh thần; tiềm lực văn hóa; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh.",
-      "b": "Tiềm lực chính trị, tinh thần; tiềm lực giáo dục; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh.",
-      "c": "Tiềm lực chính trị, văn hóa; tiềm lực giáo dục; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh.",
-      "d": "Tiềm lực chính trị, tinh thần; tiềm lực kinh tế; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 59,
-    "question": "Yếu tố nào sau đây không thuộc các tiềm lực của nền quốc phòng, an ninh?",
-    "options": {
-      "a": "Tiềm lực chính trị, tinh thần.",
-      "b": "Tiềm lực vật chất, tinh thần.",
-      "c": "Tiềm lực ngoại giao.",
-      "d": "Tiềm lực khoa học, công nghệ."
+      "a": "(1) tinh thần; (2) động lực.",
+      "b": "(1) tinh thần; (2) sức mạnh.",
+      "c": "(1) văn hóa; (2) sức mạnh.",
+      "d": "(1) văn hóa; (2) động lực."
     },
     "answer": "b"
   },
   {
-    "id": 60,
-    "question": "Một trong những nội dung xây lực tiềm lực quốc phòng, an ninh ngày càng vững mạnh là:",
+    "id": 57,
+    "question": "Luật Tín ngưỡng, tôn giáo được Quốc hội khóa XVI thông qua vào ngày, tháng, năm nào?",
     "options": {
-      "a": "Xây dựng tiềm lực chính trị, tinh thần.",
-      "b": "Xây dựng tiềm lực chính trị, văn hóa - xã hội, tinh thần.",
-      "c": "Xây dựng tiềm lực chính trị, tinh thần, an ninh, đối ngoại.",
-      "d": "Xây dựng tiềm lực chính trị, tinh thần, văn hóa, giáo dục."
+      "a": "23/04/2026.",
+      "b": "24/04/2026.",
+      "c": "23/05/2026.",
+      "d": "24/05/2026."
     },
     "answer": "a"
   },
   {
-    "id": 61,
-    "question": "Xây dựng tiềm lực quân sự, an ninh của nền quốc phòng toàn dân, an ninh nhân dân là:",
+    "id": 58,
+    "question": "Luật Tín ngưỡng, tôn giáo được Quốc hội khóa XVI có hiệu lực vào ngày, tháng, năm nào?",
     "options": {
-      "a": "Khả năng về vật chất, vật lực và tinh thần có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.",
-      "b": "Khả năng về vật chất và tinh thần có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.",
-      "c": "Khả năng về vũ khí, phương tiện kỹ thuật có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.",
-      "d": "Khả năng về tư tưởng và tinh thần có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 62,
-    "question": "Thế trận quốc phòng, an ninh là:",
-    "options": {
-      "a": "Sự tổ chức, bố trí lực lượng, tiềm lực quân sự của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Sự tổ chức, bố trí lực lượng, vũ khí, phương tiện kỹ thuật của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "c": "Sự tổ chức, bố trí lực lượng, tiềm lực mọi mặt của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "d": "Sự tổ chức, bố trí lực lượng, tiềm lực kinh tế, đối ngoại của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+      "a": "23/04/2027.",
+      "b": "24/04/2027.",
+      "c": "01/01/2027.",
+      "d": "01/02/2027."
     },
     "answer": "c"
   },
   {
-    "id": 63,
-    "question": "Nội dung xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân gồm:",
+    "id": 59,
+    "question": "Hai cuộc bạo loạn ở Tây Nguyên xảy ra vào các năm:",
     "options": {
-      "a": "Phân vùng chiến lược về chính trị kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng dân cư theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước.",
-      "b": "Phân vùng chiến lược về quốc phòng, an ninh kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng dân cư theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước.",
-      "c": "Phân vùng chiến lược về quân sự kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng dân cư theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước.",
-      "d": "Phân vùng chiến lược về quốc phòng, an ninh kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng kinh tế theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước."
+      "a": "2001; 2002.",
+      "b": "2001; 2003.",
+      "c": "2001; 2004.",
+      "d": "2001; 2005."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 60,
+    "question": "Nhận định nào sau đây là chính xác?",
+    "options": {
+      "a": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển còn hạn chế.",
+      "b": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển cao.",
+      "c": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển đồng đều.",
+      "d": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển không đồng đều."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 61,
+    "question": "Khi xảy ra “điểm nóng” tôn giáo, cần:",
+    "options": {
+      "a": "Đưa ra quốc tế can thiệp.",
+      "b": "Nghiên cứu, xây dựng kế hoạch cụ thể để xử lý.",
+      "c": "Giải quyết kịp thời, không để lan rộng.",
+      "d": "Phớt lờ thông tin."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 62,
+    "question": "Khái niệm pháp luật về bảo vệ môi trường là:",
+    "options": {
+      "a": "Hệ thống các quy phạm pháp luật do Nhà nước ban hành hoặc thừa nhận nhằm điều chỉnh các quan hệ xã hội phát sinh trong hoạt động bảo vệ môi trường.",
+      "b": "Hệ thống các quy định chỉ nhằm xử lý hành vi gây ô nhiễm môi trường của cá nhân và tổ chức.",
+      "c": "Hệ thống các quy định về khai thác, sử dụng tài nguyên thiên nhiên phục vụ phát triển kinh tế.",
+      "d": "Hệ thống các quy định chỉ điều chỉnh hoạt động thu gom, vận chuyển và xử lý chất thải."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 63,
+    "question": "Nguyên nhân khách quan chủ yếu dẫn đến môi trường bị phá hoại?",
+    "options": {
+      "a": "Do chất thải của sinh vật thải ra môi trường.",
+      "b": "Do sự “tác động quá mức” của con người đối với các thành phần cấu tạo nên môi trường tự nhiên.",
+      "c": "Do con người khai thác động thực vật quá mức.",
+      "d": "Do thảm hoạ từ thiên nhiên tàn phá môi trường."
     },
     "answer": "b"
   },
   {
     "id": 64,
-    "question": "Đặc trưng “vì dân, của dân, do dân” của nền quốc phòng, an ninh nước ta là:",
+    "question": "Muốn bảo vệ môi trường, trước hết:",
     "options": {
-      "a": "Thể hiện truyền thống của dân tộc ta trong lịch sử dựng nước và giữ nước.",
-      "b": "Thể hiện truyền thống, kinh nghiệm của các nước trên thế giới.",
-      "c": "Thể hiện kinh nghiệm của dân tộc ta trong lịch sử dựng nước và giữ nước.",
-      "d": "Thể hiện truyền thống, kinh nghiệm của dân tộc ta trong lịch sử dựng nước và giữ nước."
+      "a": "Chỉ sử dụng lực lượng chuyên trách để xử lý tội phạm môi trường.",
+      "b": "Ngừng mọi hoạt động khai thác tài nguyên thiên nhiên.",
+      "c": "Chỉ tập trung khắc phục hậu quả sau khi ô nhiễm xảy ra.",
+      "d": "Tác động đến con người bằng những chế tài nhất định để điều chỉnh hành vi."
     },
     "answer": "d"
   },
   {
     "id": 65,
-    "question": "Sức mạnh tổng hợp của nền quốc phòng, an ninh nước ta tạo thành bởi những yếu tố nào?",
+    "question": "Tội phạm về môi trường được qui định tại văn bản pháp lý nào?",
     "options": {
-      "a": "Chính trị, kinh tế, văn hoá, tư tưởng, khoa học, quân sự, an ninh.",
-      "b": "Chính trị, kinh tế, tư tưởng, khoa học, quân sự, an ninh.",
-      "c": "Chính trị, kinh tế, văn hoá, khoa học, quân sự, an ninh.",
-      "d": "Chính trị, kinh tế, văn hoá, tư tưởng, khoa học, quân sự."
+      "a": "Hiến pháp sửa đổi năm 2013.",
+      "b": "Luật Khoáng sản 2010.",
+      "c": "Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017).",
+      "d": "Pháp lệnh về bảo vệ môi trường."
     },
     "answer": "a"
   },
   {
     "id": 66,
-    "question": "Một trong những nội dung của đặc trưng nền quốc phòng toàn dân, an ninh nhân dân được xây dựng toàn diện và hiện đại là:",
+    "question": "Pháp luật quy định một số hình thức xử lý vi phạm trong lĩnh vực môi trường gồm:",
     "options": {
-      "a": "Xây dựng đội ngũ tri thức từng bước hiện đại.",
-      "b": "Xây dựng và phát triển nền công nghiệp từng bước hiện đại.",
-      "c": "Xây dựng quân đội nhân dân, công an nhân dân hiện đại.",
-      "d": "Xây dựng và phát triển nền nông nghiệp từng bước hiện đại."
+      "a": "Xử lý hình sự; xử lý vi phạm hành chính; xử lý trách nhiệm dân sự trong bảo vệ môi trường.",
+      "b": "Xử lý trách nhiệm dân sự trong khai thác tài nguyên; xử lý hình sự.",
+      "c": "Xử lý vi phạm hành chính; xử lý trách nhiệm dân sự trong bảo vệ môi trường.",
+      "d": "Xử lý hành chính; xử lý hình sự."
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
     "id": 67,
-    "question": "Một trong những nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là:",
+    "question": "Các chế tài hình sự, hành chính, dân sự, kinh tế trong bảo vệ môi trường có tác dụng chủ yếu là:",
     "options": {
-      "a": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Xây dựng nền nông nghiệp, công nghiệp theo hướng hiện đại. Lấy công nghiệp nặng làm then chốt.",
-      "c": "Xây dựng nền công nghiệp quốc phòng, an ninh vững mạnh.",
-      "d": "Xây dựng và đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước."
+      "a": "Ngăn chặn hành vi vi phạm và giáo dục công dân tôn trọng pháp luật về bảo vệ môi trường.",
+      "b": "Chỉ định hướng hoạt động khai thác tài nguyên thiên nhiên.",
+      "c": "Chỉ hạn chế hoạt động sản xuất, kinh doanh có sử dụng tài nguyên.",
+      "d": "Thay thế hoàn toàn các biện pháp tuyên truyền, giáo dục về môi trường."
     },
     "answer": "a"
   },
   {
     "id": 68,
-    "question": "Lực lượng vũ trang nhân dân hiện nay bao gồm những lực lượng nào?",
+    "question": "“Pháp luật quy định chức năng, nhiệm vụ, quyền hạn của các cơ quan, tổ chức, cá nhân tham gia bảo vệ môi trường”, được xác định là:",
     "options": {
-      "a": "Bộ đội chủ lực, bộ đội địa phương, dân quân tự vệ.",
-      "b": "Bộ đội địa phương, dân quân tự vệ, dân phòng.",
-      "c": "Quân đội nhân dân, dân quân tự vệ, công an nhân dân.",
-      "d": "Quân đội nhân dân, dân quân tự vệ, dân phòng"
+      "a": "Biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường.",
+      "b": "Vai trò của pháp luật trong công tác bảo vệ môi trường.",
+      "c": "Chủ thể tham gia phòng, chống vi phạm pháp luật về bảo vệ môi trường.",
+      "d": "Quan hệ phối hợp giữa các chủ thể trong phòng, chống vi phạm pháp luật về bảo vệ môi trường."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Điền từ còn thiếu vào khái niệm môi trường: “Môi trường là hệ thống các yếu tố vật chất tự nhiên và nhân tạo có tác động đối với………………. của con người và sinh vật”.",
+    "options": {
+      "a": "“sự sinh tồn”.",
+      "b": "“sự ổn định và phát triển”.",
+      "c": "“sự tồn tại và phát triển”.",
+      "d": "“sự tồn tại và phát triển bền vững”."
     },
     "answer": "c"
   },
   {
-    "id": 69,
-    "question": "Xây dựng nền quốc phòng toàn dân, an ninh nhân dân là trách nhiệm của:",
-    "options": {
-      "a": "Toàn dân.",
-      "b": "Quân đội.",
-      "c": "Công an.",
-      "d": "Quân đội, Công an."
-    },
-    "answer": "a"
-  },
-  {
     "id": 70,
-    "question": "Tiềm lực quân sự, an ninh được biểu hiện ở:",
+    "question": "Một trong những nguyên nhân, điều kiện chủ quan của vi phạm pháp luật về bảo vệ môi trường?",
     "options": {
-      "a": "Khả năng sử dụng vũ khí, phương tiện kỹ thuật trong suốt quá trình đấu tranh bảo vệ Tổ quốc.",
-      "b": "Khả năng sử dụng vũ khí, phương tiện kỹ thuật, vận dụng các hình thức đánh địch trong tiến công và phòng ngự.",
-      "c": "Khả năng sẵn sàng chiến đấu, năng lực và tăng cường sức mạnh chiến đấu.",
-      "d": "Khả năng duy trì và không ngừng phát triển trình độ sẵn sàng chiến đấu, năng lực và sức mạnh chiến đấu của các lực lượng vũ trang nhân dân."
+      "a": "Công tác phối hợp giữa các lực lượng phòng, chống tội phạm về môi trường chưa chặt chẽ, chưa đồng bộ, kém hiệu quả.",
+      "b": "Các cơ quan Nhà nước có thẩm quyền ban hành nhiều chính sách ưu đãi để phát triển kinh tế mà không quan tâm đến bảo vệ môi trường.",
+      "c": "Nhận thức chưa cao về bảo vệ môi trường của một số bộ phận người dân, cơ quan quản lý nhà nước.",
+      "d": "Các cơ quan chức năng chưa phát huy hết vai trò, trách nhiệm trong phòng, chống vi phạm pháp luật về bảo vệ môi trường."
     },
-    "answer": "d"
+    "answer": "c"
   },
   {
     "id": 71,
-    "question": "Quốc phòng toàn dân là nền quốc phòng mang tính chất:",
+    "question": "Một trong những nội dung phòng, chống vi phạm pháp luật về bảo vệ môi trường là:",
     "options": {
-      "a": "“vì dân, do dân, của dân”.",
-      "b": "“vì dân, do dân”.",
-      "c": "“do dân, của dân”.",
-      "d": "“vì dân, của dân”."
+      "a": "Xác định và làm rõ các nguyên nhân, điều kiện của vi phạm pháp luật về bảo vệ môi trường.",
+      "b": "Thanh tra, kiểm tra, giám sát các hoạt động về tài nguyên, khoáng sản.",
+      "c": "Xây dựng các kế hoạch chủ động hạn chế các nguyên nhân, khắc phục các điều kiện.",
+      "d": "Tổ chức lực lượng thực hiện các hoạt động khắc phục nguyên nhân của tội phạm về môi trường."
     },
     "answer": "a"
   },
   {
     "id": 72,
-    "question": "Trong các tiềm lực quốc phòng, an ninh của nước ta thì tiềm lực nào là nhân tố cơ bản tạo nên sức mạnh của quốc phòng, an ninh, có tác động to lớn đến hiệu quả xây dựng và sử dụng các tiềm lực khác?",
+    "question": "Nội dung nào sau đây không thuộc nhóm biện pháp phòng ngừa chung đối với vi phạm pháp luật về bảo vệ môi trường?",
     "options": {
-      "a": "Tiềm lực chính trị, tinh thần.",
-      "b": "Tiềm lực kinh tế.",
-      "c": "Tiềm lực khoa học công nghệ.",
-      "d": "Tiềm lực quân sự, an ninh."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 73,
-    "question": "Xây dựng tiềm lực khoa học công nghệ của nền quốc phòng toàn dân, an ninh nhân dân là:",
-    "options": {
-      "a": "Tạo nên khả năng huy động đội ngũ cán bộ phục vụ quốc phòng, an ninh.",
-      "b": "Tạo nên khả năng ứng dụng kết quả nghiên cứu khoa học công nghệ vào quốc phòng, an ninh.",
-      "c": "Tạo nên khả năng về khoa học, công nghệ của quốc gia có thể khai thác, huy động phục vụ cho quốc phòng, an ninh",
-      "d": "Tạo nên khả năng về vũ khí trang bị để phòng thủ đất nước."
+      "a": "Biện pháp kinh tế.",
+      "b": "Biện pháp khoa học và công nghệ.",
+      "c": "Điều tra, truy tố và xét xử một vụ án môi trường cụ thể.",
+      "d": "Biện pháp pháp luật, tuyên truyền và giáo dục."
     },
     "answer": "c"
   },
   {
-    "id": 74,
-    "question": "Một trong những nội dung xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân vững chắc là:",
+    "id": 73,
+    "question": "Một trong những vai trò của pháp luật trong công tác bảo vệ môi trường là:",
     "options": {
-      "a": "Xây dựng hậu phương, tạo chỗ dựa vững chắc cho thế trận quốc phòng, an ninh.",
-      "b": "Xây dựng khối đại đoàn kết quân dân để bảo đảm công tác quốc phòng, an ninh.",
-      "c": "Xây dựng các vùng kinh tế phát triển.",
-      "d": "Xây dựng các tổ chức xã hội với phát triển kinh tế."
+      "a": "Xây dựng hệ thống quy chuẩn môi trường, tiêu chuẩn môi trường để bảo vệ môi trường.",
+      "b": "Xác định động cơ phạm tội của mọi chủ thể.",
+      "c": "Thay thế hoạt động quản lý nhà nước về môi trường.",
+      "d": "Loại bỏ hoàn toàn nguy cơ ô nhiễm môi trường."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 74,
+    "question": "Nội dung nào không phải là trách nhiệm phòng, chống vi phạm pháp luật về môi trường của các nhà trường?",
+    "options": {
+      "a": "Xử phạt vi phạm hành chính trên lĩnh vực bảo vệ môi trường.",
+      "b": "Xây dựng đội tình nguyện vì môi trường, thành lập các câu lạc bộ vì môi trường.",
+      "c": "Phối hợp với các cơ quan chuyên môn tổ chức các buổi tuyên truyền, tọa đàm trao đổi, các cuộc thi tìm hiểu về bảo vệ môi trường.",
+      "d": "Xây dựng các phong trào bảo vệ môi trường và tổ chức các cuộc thi tìm hiểu về môi trường và pháp luật về bảo vệ môi trường trong nhà trường."
     },
     "answer": "a"
   },
   {
     "id": 75,
-    "question": "Bổ sung cụm từ phù hợp nhất cho câu sau: “Xây dựng lực lượng quốc phòng, an ninh là …………. đáp ứng yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.”",
+    "question": "“Ý thức coi thường pháp luật, sống thiếu kỷ cương không tuân thủ các quy tắc, chuẩn mực xã hội cùng với việc ý thức sai lệch về cách thỏa mãn nhu cầu cá nhân” là:",
     "options": {
-      "a": "“xây dựng lực lượng chính trị và các tổ chức xã hội”.",
-      "b": "“xây dựng lực lượng chính trị và lực lượng vũ trang nhân dân”.",
-      "c": "“xây dựng các tổ chức xã hội và lực lượng vũ trang nhân dân”.",
-      "d": "“xây dựng các tổ chức xã hội với xây dựng hậu phương vững chắc”."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 76,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta là:",
-    "options": {
-      "a": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng cho những vùng kinh tế trọng điểm và từng bước hiện đại.",
-      "b": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng toàn diện và hiện đại.",
-      "c": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng vững chắc các tuyến biên giới và từng bước hiện đại.",
-      "d": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng và phát triển các vùng biên giới trọng điểm."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 77,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta là:",
-    "options": {
-      "a": "Nền quốc phòng toàn dân gắn chặt với phát triển kinh tế.",
-      "b": "Nền quốc phòng toàn dân gắn chặt với phát triển vũ khí trang bị.",
-      "c": "Nền quốc phòng toàn dân gắn chặt với nền an ninh nhân dân.",
-      "d": "Nền quốc phòng toàn dân gắn chặt với phát triển giáo dục."
+      "a": "Nguyên nhân, điều khiện khách quan.",
+      "b": "Nguyên nhân, điều kiện chủ quan.",
+      "c": "Nguyên nhân thuộc về phía đối tượng vi phạm.",
+      "d": "Nguyên nhân, điều kiện phạm tội."
     },
     "answer": "c"
   },
   {
-    "id": 78,
-    "question": "Bổ sung cụm từ phù hợp nhất cho khái niệm tiềm lực kinh tế: “Tiềm lực kinh tế của nền quốc phòng toàn dân, an ninh nhân dân là khả năng về kinh tế của đất nước có thể …(1).., …(2)… nhằm phục vụ cho quốc phòng, an ninh.”",
+    "id": 76,
+    "question": "Trách nhiệm của sinh viên trong phòng, chống vi phạm pháp luật về môi trường là:",
     "options": {
-      "a": "(1) khai thác, (2) huy động.",
-      "b": "(1) quản lý, (2) điều hành.",
-      "c": "(1) tổ chức, (2) điều hành.",
-      "d": "(1) quản lý, (2) huy động."
+      "a": "Nghiên cứu, điều tra và xử lý tội phạm về môi trường.",
+      "b": "Sử dụng các cơ quan chuyên trách tiến hành hoạt động phòng, chống tội phạm.",
+      "c": "Hướng dẫn, thanh tra công tác bảo vệ môi trường.",
+      "d": "Xây dựng ý thức trách nhiệm trong các hoạt động bảo vệ môi trường."
     },
-    "answer": "a"
+    "answer": "d"
+  },
+  {
+    "id": 77,
+    "question": "Một trong những dấu hiệu pháp lý đặc trưng của tội phạm về môi trường là:",
+    "options": {
+      "a": "Mặt chủ quan của tội phạm.",
+      "b": "Yếu tố môi trường.",
+      "c": "Mặt ý thức của cá nhân, pháp nhân thương mại.",
+      "d": "Mặt khách quan của chủ thể."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 78,
+    "question": "Một trong những chủ thể của tội phạm về môi trường:",
+    "options": {
+      "a": "Các cá nhân dưới 14 tuổi.",
+      "b": "Người không đủ năng lực trách nhiệm hành vi.",
+      "c": "Người không kiểm soát được hành vi.",
+      "d": "Người đủ điều kiện năng lực hành vi."
+    },
+    "answer": "d"
   },
   {
     "id": 79,
-    "question": "Bổ sung cụm từ phù hợp nhất cho khái niệm tiềm lực quân sự: “Tiềm lực quân sự, an ninh của nền quốc phòng toàn dân, an ninh nhân dân là khả năng về …….. có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.”",
+    "question": "Dùng các lợi ích vật chất để kích thích chủ thể thực hiện những hoạt động có lợi cho môi trường, bảo vệ môi trường và ngược lại xử lý, hạn chế lợi ích kinh tế của chủ thể vi phạm. Được xác định là biện pháp nào trong phòng, chống chung vi phạm pháp luật môi trường?",
     "options": {
-      "a": "“vũ khí và phương tiện kỹ thuật”.",
-      "b": "“vật chất và tinh thần”.",
-      "c": "“vật lực và tinh thần”.",
-      "d": "“vũ lực và phương tiện kỹ thuật”."
+      "a": "Tổ chức - hành chính.",
+      "b": "Khoa học - công nghệ.",
+      "c": "Tuyên truyền, giáo dục.",
+      "d": "Kinh tế."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 80,
+    "question": "Một trong những đặc điểm của phòng, chống vi phạm pháp luật về bảo vệ môi trường là:",
+    "options": {
+      "a": "Các cơ quan chức năng chưa phát huy hết vai trò trách nhiệm.",
+      "b": "Chủ thể tham gia rất đa dạng.",
+      "c": "Trang bị cơ sở vật chất kỹ thuật cho lực lượng tham gia đấu tranh chưa bảo đảm.",
+      "d": "Đội ngũ cán bộ, chiến sĩ chưa đủ biên chế ở các cấp Công an."
     },
     "answer": "b"
   },
   {
-    "id": 80,
-    "question": "Một trong những nội dung cần tập trung xây dựng tiềm lực chính trị, tinh thần của nền quốc phòng toàn dân, an ninh nhân dân là:",
+    "id": 81,
+    "question": "Luật Bảo vệ môi trường năm 2020 được Quốc hội thông qua vào ngày nào?",
     "options": {
-      "a": "Xây dựng tình yêu quê hương, đất nước, niềm tin đối với sự lãnh đạo của Đảng, quản lí của Nhà nước, đối với chế độ xã hội chủ nghĩa.",
-      "b": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, xây dựng nền kinh tế độc lập, tự chủ. Kết hợp chặt chẽ phát triển kinh tế - xã hội với tăng cường quốc phòng, an ninh.",
-      "c": "Xây dựng số lượng, chất lượng đội ngũ cán bộ kĩ thuật, cơ sở vật chất kĩ thuật có thể huy động phục vụ cho quốc phòng, an ninh.",
-      "d": "Xây dựng lực lượng vũ trang nhân dân vững mạnh toàn diện, gắn quá trình công nghiệp hóa, hiện đại hóa đất nước với quá trình tăng cường vũ khí trang bị cho các lực lượng vũ trang nhân dân, xây dựng đội ngũ cán bộ trong lực lượng vũ trang nhân dân đáp ứng yêu cầu bảo vệ Tổ quốc trong tình hình mới"
+      "a": "17/11/2019.",
+      "b": "17/11/2020.",
+      "c": "01/01/2021.",
+      "d": "01/01/2022."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Dấu hiệu pháp lý đặc trưng của tội phạm về môi trường được thể hiện dưới các yếu tố cấu thành tội phạm gồm:",
+    "options": {
+      "a": "Mặt khách quan của tội phạm; chủ thể của tội phạm; mặt chủ quan của tội phạm; cố ý của khách thể.",
+      "b": "Khách thể của tội phạm; mặt khách quan của tội phạm; cố ý của tội phạm; mặt chủ quan của tội phạm.",
+      "c": "Khách thể của tội phạm; Mặt khách quan của tội phạm; Chủ thể của tội phạm; Mặt chủ quan của tội phạm.",
+      "d": "Khách thể của tội phạm; Chủ thể của tội phạm; Mặt chủ quan của tội phạm; chủ quan của khách thể."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 83,
+    "question": "Trong các cơ quan bảo vệ pháp luật, lực lượng nào là lực lượng chính, tham gia trực tiếp, toàn diện vào phòng, chống tội phạm, vi phạm pháp luật về bảo vệ môi trường?",
+    "options": {
+      "a": "Bộ đội biên phòng.",
+      "b": "Quân đội nhân dân.",
+      "c": "Công an nhân dân.",
+      "d": "Dân quân tự vệ."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 84,
+    "question": "Phương án nào phản ánh đầy đủ biện pháp phòng, chống đối với vi phạm pháp luật về bảo vệ môi trường?",
+    "options": {
+      "a": "Chỉ sử dụng biện pháp pháp luật và xử phạt.",
+      "b": "Chỉ sử dụng biện pháp kinh tế và tuyên truyền.",
+      "c": "Chỉ sử dụng khoa học - công nghệ để giám sát nguồn thải.",
+      "d": "Kết hợp biện pháp pháp luật, kinh tế, tổ chức - hành chính, khoa học - công nghệ và tuyên truyền, giáo dục."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 85,
+    "question": "Nội dung nào không phải là nguyên nhân, điều kiện khách quan của vi phạm pháp luật về môi trường?",
+    "options": {
+      "a": "Áp lực tăng trưởng kinh tế.",
+      "b": "Cơ quan có liên quan chưa làm hết chức năng.",
+      "c": "Nhiều chính sách ưu đãi để phát triển kinh tế nhưng không quan tâm đến bảo vệ môi trường.",
+      "d": "Công tác quản lý nhà nước về môi trường."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 86,
+    "question": "Luật Bảo vệ môi trường năm 2020 có hiệu lực thi hành từ thời gian nào?",
+    "options": {
+      "a": "01/01/2020.",
+      "b": "01/01/2021.",
+      "c": "01/01/2022.",
+      "d": "01/07/2022."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Bộ luật Hình sự hiện hành, Văn bản hợp nhất 11/VBHN-VPQH năm 2025, theo Điều 244 thì hành vi nào sau đây không thuộc tội vi phạm quy định về bảo vệ động vật nguy cấp, quý, hiếm?",
+    "options": {
+      "a": "Săn bắt động vật thuộc danh mục loài nguy cấp, quý, hiếm là dung các loại vũ khí hoặc phương tiện khác để bắt sống hoặc có thể bắn chết.",
+      "b": "Giết là làm cho động vật nguy cấp, quý, hiếm hoang dã quý hiếm chết sau khi đã bắt được.",
+      "c": "Phá hoại nơi cư ngụ của các loài thuỷ sản quý hiếm được bảo vệ theo quy định của Chính phủ.",
+      "d": "Tàng trữ, cất giữ, cất giấu bất hợp pháp cá thể, bộ phận cơ thể không thể tách rời sự sống hoặc sản phẩm của động vật."
     },
     "answer": "a"
   },
   {
-    "id": 81,
-    "question": "Xây dựng tiềm lực kinh tế của nền quốc phòng toàn dân, an ninh nhân dân, cần tập trung vào nội dung nào?",
+    "id": 88,
+    "question": "Theo Điều 243, Bộ luật hình sự hiện hành thì các hành vi đốt rừng, phá rừng và huỷ hoại rừng được xem là:",
     "options": {
-      "a": "Phát triển toàn diện các ngành, các lĩnh vực kinh tế.",
-      "b": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, xây dựng nền kinh tế độc lập, tự chủ.",
-      "c": "Không ngừng cải thiện đời sống vật chất, tinh thần cho các lực lượng vũ trang.",
-      "d": "Có kế hoạch chuyển sản xuất từ thời bình sang thời chiến."
+      "a": "Tội huỷ hoại rừng.",
+      "b": "Tội khai thác rừng trái phép.",
+      "c": "Tội vận chuyển gỗ trái phép.",
+      "d": "Tội buôn bán gỗ trái phép."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 89,
+    "question": "“Nghiên cứu, rà soát, sửa đổi, bổ sung các văn bản pháp luật về bảo vệ môi trường trong lĩnh vực y tế, tạo hành lang pháp lý đầy đủ, vững chắc phục vụ công tác phòng ngừa vi phạm pháp luật môi trường” là trách nhiệm của chủ thể nào?",
+    "options": {
+      "a": "Bộ Tư pháp.",
+      "b": "Viện kiểm sát.",
+      "c": "Quốc hội và Hội đồng nhân dân các cấp.",
+      "d": "Bộ Tài nguyên và môi trường."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 90,
+    "question": "Luật bảo vệ môi trường năm 2020 quy định hình thức xử lý đối với cơ sở gây ô nhiễm môi trường nghiêm trọng là:",
+    "options": {
+      "a": "Xử phạt vi phạm hành chính.",
+      "b": "Xử lý hình sự.",
+      "c": "Xử phạt vi phạm hành chính và đưa vào danh sách cơ sở gây ô nhiễm môi trường nghiêm trọng kèm theo biện pháp xử lý ô nhiễm môi trường.",
+      "d": "Buộc ngừng hoạt động để khắc phục ô nhiễm."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 91,
+    "question": "Nội dung nào không phải là nguyên nhân, điều kiện khách quan của vi phạm pháp luật về bảo vệ môi trường?",
+    "options": {
+      "a": "Công tác quản lý nhà nước về môi trường còn hạn chế.",
+      "b": "Hệ thống văn bản pháp luật thiếu và chưa đồng bộ.",
+      "c": "Áp lực tăng trưởng kinh tế ở địa phương.",
+      "d": "Nhận thức chưa cao về bảo vệ môi trường của một số bộ phận người dân, cơ quan quản lý Nhà nước."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 92,
+    "question": "Chủ thể nào có thể bị truy cứu trách nhiệm hình sự về tội phạm môi trường?",
+    "options": {
+      "a": "Cá nhân.",
+      "b": "Pháp nhân thương mại.",
+      "c": "Cả cá nhân và pháp nhân thương mại.",
+      "d": "Cá nhân, pháp nhân thương mại và cơ quan hành chính nhà nước."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 93,
+    "question": "Một trong những nội dung cơ bản của pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Các văn bản quy phạm pháp luật do Chính phủ ban hành có liên quan đến bảo đảm trật tự, an toàn giao thông.",
+      "b": "Các văn bản quy phạm pháp luật do Chủ tịch nước ban hành có liên quan đến bảo đảm trật tự, an toàn giao thông.",
+      "c": "Các văn bản quy phạm pháp luật do Bộ Công an ban hành có liên quan đến bảo đảm trật tự, an toàn giao thông.",
+      "d": "Các văn bản quy phạm pháp luật do Quốc hội ban hành có liên quan đến bảo đảm trật tự, an toàn giao thông."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 94,
+    "question": "Vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông có mấy dạng?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Một trong những nguyên nhân, điều kiện của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Tác động tiêu cực của các yếu tố do con người, môi trường đối với người tham gia giao thông.",
+      "b": "Tác động tiêu cực của các yếu tố thiên nhiên, con người đối với người tham gia giao thông.",
+      "c": "Tác động tiêu cực của các yếu tố thiên nhiên, môi trường đối với người tham gia giao thông.",
+      "d": "Tác động tiêu cực của các yếu tố môi trường đối với người tham gia giao thông."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 96,
+    "question": "Một trong các dấu hiệu cơ bản của vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Tính trái pháp luật về bảo đảm trật tự, an toàn giao thông.",
+      "b": "Tính trái pháp luật về bảo đảm trật tự, an toàn xã hội.",
+      "c": "Tính trái pháp luật về bảo đảm an toàn phương tiện giao thông.",
+      "d": "Tính trái pháp luật về bảo đảm an toàn người tham gia giao thông."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 97,
+    "question": "Một trong những chủ thể và mối quan hệ phối hợp trong thực hiện phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Các cơ quan bảo vệ pháp luật (Các cơ quan Công an, Tòa án).",
+      "b": "Các cơ quan bảo vệ pháp luật (Các cơ quan Công an).",
+      "c": "Các cơ quan bảo vệ pháp luật (Các cơ quan Công an, Viện kiểm sát).",
+      "d": "Các cơ quan bảo vệ pháp luật (Các cơ quan Công an, Viện kiểm sát, Tòa án)."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 98,
+    "question": "Một trong những chủ thể và mối quan hệ phối hợp trong thực hiện phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Quốc hội và Ủy ban Nhân dân các cấp.",
+      "b": "Quốc hội và Hội đồng Nhân dân các cấp.",
+      "c": "Chính phủ và Ủy ban Mặt trận Tổ quốc Việt Nam.",
+      "d": "Chính phủ và Hội đồng Nhân dân các cấp."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "Nghị định số 168/2024/NĐ- của Chính phủ quy định chủ yếu về:",
+    "options": {
+      "a": "Xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe.",
+      "b": "Xử phạt vi phạm hành chính trong lĩnh vực hàng hải.",
+      "c": "Quản lý hoạt động hàng không dân dụng.",
+      "d": "Quản lý kết cấu hạ tầng đường sắt quốc gia."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 100,
+    "question": "Các tội phạm xâm phạm an toàn giao thông là những hành vi nguy hiểm cho xã hội được quy định trong Bộ Luật hình sự 2017 sửa đổi, bổ sung một số điều của Bộ Luật hình sự số 100/2015/QH13 từ:",
+    "options": {
+      "a": "Điều 260 đến Điều 280.",
+      "b": "Điều 260 đến Điều 282.",
+      "c": "Điều 260 đến Điều 284.",
+      "d": "Điều 260 đến Điều 286."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 101,
+    "question": "Nghị định số 168/2024/NĐ-CP của Chính phủ được ban hành thời gian nào?",
+    "options": {
+      "a": "25/12/2024.",
+      "b": "26/12/2024.",
+      "c": "27/12/2024.",
+      "d": "01/01/2025."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 102,
+    "question": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 được Quốc hội khóa XV thông qua thời gian nào?",
+    "options": {
+      "a": "27/06/2024.",
+      "b": "26/06/2024.",
+      "c": "27/07/2024.",
+      "d": "26/07/2024."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 103,
+    "question": "Nghị định số 151/2024/NĐ-CP, được sửa đổi, bổ sung bởi Nghị định số 184/2025/NĐ-CP và Nghị định số 236/2026/NĐ-CP, tập trung quy định về:",
+    "options": {
+      "a": "Người, phương tiện, giấy phép lái xe và các điều kiện bảo đảm trật tự, an toàn giao thông.",
+      "b": "Xử phạt vi phạm hành chính, trừ điểm và phục hồi điểm giấy phép lái xe.",
+      "c": "Quản lý, khai thác kết cấu hạ tầng, tổ chức giao thông và hoạt động đường bộ.",
+      "d": "Điều kiện kinh doanh dịch vụ kiểm định xe cơ giới, tổ chức đăng kiểm và niên hạn sử dụng xe cơ giới."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 104,
+    "question": "Nghị định số 168/2024/NĐ-CP của Chính phủ được sửa đổi, bổ sung bởi:",
+    "options": {
+      "a": "Nghị định số 184/2025/NĐ-CP.",
+      "b": "Nghị định số 220/2026/NĐ-CP.",
+      "c": "Nghị định số 238/2026/NĐ-CP.",
+      "d": "Nghị định số 241/2026/NĐ-CP."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 105,
+    "question": "Pháp luật về bảo đảm trật tự, an toàn giao thông là một bộ phận của:",
+    "options": {
+      "a": "Hệ thống pháp luật hành chính của Đảng.",
+      "b": "Hệ thống pháp luật hành chính Nhà nước.",
+      "c": "Hệ thống pháp luật hành chính của Cục Cảnh sát giao thông.",
+      "d": "Hệ thống pháp luật của Bộ Công an."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 106,
+    "question": "Hệ thống các văn bản quy phạm pháp luật về bảo đảm trật tự, an toàn giao thông ban hành nhằm?",
+    "options": {
+      "a": "Điều chỉnh các quan hệ xã hội phát sinh trong quá trình tổ chức hoạt động chấp hành của các cơ quan quản lý nhà nước, tổ chức xã hội và công dân trên lĩnh vực bảo đảm trật tự, an toàn giao thông.",
+      "b": "Điều chỉnh các quan hệ xã hội phát sinh trong quá trình thực hiện hoạt động điều hành của các cơ quan quản lý nhà nước, tổ chức xã hội và công dân trên lĩnh vực bảo đảm trật tự, an toàn giao thông.",
+      "c": "Điều chỉnh các quan hệ xã hội phát sinh trong quá trình tổ chức, thực hiện hoạt động chấp hành và điều hành của các cơ quan quản lý nhà nước, tổ chức xã hội và công dân trên lĩnh vực bảo đảm trật tự, an toàn giao thông.",
+      "d": "Điều chỉnh các quan hệ xã hội phát sinh trong quá trình tổ chức, thực hiện của các cơ quan quản lý nhà nước, công dân trên lĩnh vực bảo đảm trật tự, an toàn giao thông."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 107,
+    "question": "Một trong những vai trò của pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Công cụ pháp lý quan trọng để thực hiện chức năng quản lý nhà nước về bảo đảm trật tự an toàn giao thông, trật tự an toàn xã hội.",
+      "b": "Cơ sở, công cụ pháp lý quan trọng để thực hiện chức năng quản lý nhà nước về bảo đảm trật tự, an toàn giao thông, trật tự an toàn xã hội.",
+      "c": "Cơ sở, công cụ pháp lý quan trọng để thực hiện chức năng Nhà nước về bảo đảm trật tự an toàn giao thông.",
+      "d": "Công cụ pháp lý để thực hiện chức năng quản lý nhà nước về bảo đảm trật tự an toàn giao thông."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 108,
+    "question": "Pháp luật về bảo đảm trật tự, an toàn giao thông là ý chí của:",
+    "options": {
+      "a": "Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông.",
+      "b": "Công an nhân dân để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông.",
+      "c": "Quân đội nhân dân để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông.",
+      "d": "Cảnh sát giao thông để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 109,
+    "question": "Tổ chức nào sau đây là chủ thể trong thực hiện phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": {
+      "a": "Các tổ chức xã hội và tổ chức quần chúng tự quản; cơ quan quản lý kinh tế, giao thông, văn hóa, giáo dục, dịch vụ, du lịch; công dân.",
+      "b": "Các cơ quan quản lý kinh tế, giao thông, văn hóa, giáo dục, dịch vụ, du lịch.",
+      "c": "Cơ quan quản lý giao thông, văn hóa, giáo dục, dịch vụ, du lịch; công dân.",
+      "d": "Các tổ chức xã hội và tổ chức quần chúng tự quản; cơ quan quản lý kinh tế, giao thông."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 110,
+    "question": "Một trong những nguyên nhân, điều kiện của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Sự không tương thích giữa các phương tiện tham gia giao thông.",
+      "b": "Sự không tương thích giữa các yếu tố cơ bản cấu thành hoạt động giao thông vận tải quốc gia.",
+      "c": "Sự không tương thích giữa các yếu tố cơ bản cấu thành hạ tầng giao thông vận tải quốc gia.",
+      "d": "Sự không tương thích trong hoạt động giao thông vận tải quốc gia."
     },
     "answer": "b"
   }
